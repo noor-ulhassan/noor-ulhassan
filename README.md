@@ -40,9 +40,6 @@ Most of my work lives at the intersection of full-stack development and applied 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noor-ulhassan&layout=compact&hide_border=true&langs_count=8&theme=graywhite&text_color=333&title_color=1f3864" alt="Top languages" />
-</td>
-<td>
 <img src="https://streak-stats.demolab.com/?user=noor-ulhassan&hide_border=true&theme=graywhite&ring=1f3864&fire=1f3864&currStreakLabel=333" alt="Contribution streak" />
 </td>
 </tr>
@@ -50,7 +47,7 @@ Most of my work lives at the intersection of full-stack development and applied 
 
 ## Featured projects
 
-**[EduQuest]** — AI-powered gamified learning platform _(Final Year Project)_
+**EduQuest** — AI-powered gamified learning platform _(Final Year Project)_
 A full-stack platform where students learn through their own material. I built a Retrieval-Augmented Generation pipeline with LangChain, Gemini embeddings, and MongoDB Vector Search so answers stay grounded in uploaded PDFs, alongside real-time multiplayer coding competitions over Socket.io and a self-hosted Piston code-execution service on Docker supporting 15+ languages. Shipped end to end with a 16-route REST API and deployed on Vercel and Render.
 `React` `Node.js` `MongoDB` `LangChain` `Socket.io` `Docker` `AWS`
 
