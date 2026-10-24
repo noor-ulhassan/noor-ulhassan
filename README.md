@@ -16,7 +16,7 @@
 
 ## About me
 
-I'm a software engineer who enjoys building Scalable and Reliable and Production ready systems: how data is modeled, how services talk to each other, and how a system holds up when traffic spikes or a dependency goes down.
+I'm a software engineer who enjoys building Reliable, Scalable and Production ready systems: how data is modeled, how services talk to each other, and how a system holds up when traffic spikes or a dependency goes down.
 
 I have built and shipped software that real businesses run on every day, from offline-first desktop apps to cloud-hosted web platforms. These days I'm going deeper into system design and event-driven architecture, and contributing to open source.
 
